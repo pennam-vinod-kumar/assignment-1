@@ -1,0 +1,31 @@
+.table-bg {
+    background-color: white;
+    width: 100%;
+    padding: 10px;
+}
+
+.table-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.table-header2 {
+    display: flex;
+}
+.stack {
+    margin-right: 20px;
+}
+.price {
+    margin-right: 20px;
+}
+.items {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.stack2 {
+    margin-right: 60px;
+}
+.price2 {
+    margin-right: 40px;
+}

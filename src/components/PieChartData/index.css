@@ -1,0 +1,26 @@
+.pie-bg {
+    background-color: white;
+    padding: 10px;
+    margin: 10px;
+    height: 40vh;
+    border-radius: 10px;
+    width:90%;
+}
+@media screen and (min-width:768px) {
+.pie-bg {
+    background-color: white;
+    padding: 10px;
+    margin: 10px;
+    height: 40vh;
+    border-radius: 10px;
+    width:30%;
+}
+}
+.under-pie {
+    font-weight: bold;
+}
+.pie-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
